@@ -1,0 +1,177 @@
+C:\Users\Chad-Acer\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.vbproj.ResolveComReference.cache
+C:\Users\Chad-Acer\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hai Yue\Documents\My Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Interop.VIDEOCAPXLib.dll
+C:\Users\Hai Yue\Documents\My Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\AxInterop.VIDEOCAPXLib.dll
+C:\Users\Hai Yue\Documents\My Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.vbproj.ResolveComReference.cache
+C:\Users\Hai Yue\Documents\My Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hai Yue\Documents\My Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\ResGen.read.1.tlog
+C:\Users\Hai Yue\Documents\My Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\ResGen.write.1.tlog
+C:\Users\Chad-Acer\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\Phoenix.exe
+C:\Users\Chad-Acer\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\Phoenix.pdb
+C:\Users\Chad-Acer\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\Phoenix.xml
+C:\Users\Chad-Acer\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\DirectShowLib.dll
+C:\Users\Chad-Acer\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\WebCamControl2.dll
+C:\Users\Chad-Acer\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.frmMain.resources
+C:\Users\Chad-Acer\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.Resources.resources
+C:\Users\Chad-Acer\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.exe
+C:\Users\Chad-Acer\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.xml
+C:\Users\Chad-Acer\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.pdb
+C:\Users\Hai Yue\Documents\My Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.exe
+C:\Users\Hai Yue\Documents\My Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.xml
+C:\Users\Hai Yue\Documents\My Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.pdb
+C:\Users\Hai Yue\Documents\My Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\Phoenix.exe
+C:\Users\Hai Yue\Documents\My Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\Phoenix.pdb
+C:\Users\Hai Yue\Documents\My Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\Phoenix.xml
+C:\Users\Hai Yue\Documents\My Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\DirectShowLib.dll
+C:\Users\Hai Yue\Documents\My Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\WebCamControl2.dll
+C:\Users\Hai Yue\Documents\My Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\Interop.VIDEOCAPXLib.dll
+C:\Users\Hai Yue\Documents\My Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\AxInterop.VIDEOCAPXLib.dll
+C:\Users\Hai Yue\Documents\My Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.frmMain.resources
+C:\Users\Hai Yue\Documents\My Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.Resources.resources
+C:\Users\Hai Yue\Documents\My Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\Interop.WMPLib.dll
+C:\Users\Hai Yue\Documents\My Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Hai Yue\Documents\My Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Interop.WMPLib.dll
+C:\Users\Hai Yue\Documents\My Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Chad-Acer\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Interop.WMPLib.dll
+C:\Users\Chad-Acer\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Chad-Acer\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\Interop.WMPLib.dll
+C:\Users\Chad-Acer\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Hai Yue\Documents\My Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\Phoenix.exe.config
+C:\Users\Hai Yue\Documents\My Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\WebcamControl.dll
+C:\Users\Hai Yue\Documents\My Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Hai Yue\Documents\My Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Chad-Acer\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\Phoenix.exe.config
+C:\Users\Chad-Acer\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\WebcamControl.dll
+C:\Users\Chad-Acer\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Chad-Acer\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\GenerateResource.write.1.tlog
+E:\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\Phoenix.exe.config
+E:\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Interop.WMPLib.dll
+E:\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\AxInterop.WMPLib.dll
+E:\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.vbproj.ResolveComReference.cache
+E:\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.exe
+E:\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.xml
+E:\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.pdb
+E:\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\Phoenix.exe
+E:\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\Phoenix.pdb
+E:\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\Phoenix.xml
+E:\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\DirectShowLib.dll
+E:\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\WebcamControl.dll
+E:\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\WebCamControl2.dll
+E:\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\Interop.WMPLib.dll
+E:\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\AxInterop.WMPLib.dll
+E:\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\ResolveAssemblyReference.cache
+E:\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.frmMain.resources
+E:\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.Resources.resources
+E:\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\GenerateResource.read.1.tlog
+E:\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\ResGen.read.1 (Ryan Kalb's conflicted copy 2012-06-01).tlog
+E:\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\ResGen.read.1.tlog
+E:\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\GenerateResource.write.1.tlog
+E:\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\ResGen.write.1 (Ryan Kalb's conflicted copy 2012-06-01).tlog
+E:\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\ResGen.write.1.tlog
+C:\Users\Ryan\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\Phoenix.exe.config
+C:\Users\Ryan\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ryan\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ryan\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.vbproj.ResolveComReference.cache
+C:\Users\Ryan\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.exe
+C:\Users\Ryan\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.xml
+C:\Users\Ryan\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.pdb
+C:\Users\Hai Yue\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\Phoenix.exe.config
+C:\Users\Hai Yue\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Interop.WMPLib.dll
+C:\Users\Hai Yue\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Hai Yue\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.vbproj.ResolveComReference.cache
+C:\Users\Hai Yue\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.exe
+C:\Users\Hai Yue\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.xml
+C:\Users\Hai Yue\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.pdb
+C:\Users\Hai Yue\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\Phoenix.exe
+C:\Users\Hai Yue\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\Phoenix.pdb
+C:\Users\Hai Yue\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\Phoenix.xml
+C:\Users\Hai Yue\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\DirectShowLib.dll
+C:\Users\Hai Yue\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\WebcamControl.dll
+C:\Users\Hai Yue\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\WebCamControl2.dll
+C:\Users\Hai Yue\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\Interop.WMPLib.dll
+C:\Users\Hai Yue\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Hai Yue\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hai Yue\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.frmMain.resources
+C:\Users\Hai Yue\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.Resources.resources
+C:\Users\Hai Yue\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Hai Yue\Dropbox\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\GenerateResource.write.1.tlog
+C:\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\Phoenix.exe.config
+C:\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.exe
+C:\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.xml
+C:\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.pdb
+C:\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\Phoenix.exe
+C:\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\Phoenix.pdb
+C:\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\Phoenix.xml
+C:\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\DirectShowLib.dll
+C:\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\bin\Debug\WebCamControl2.dll
+C:\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\ResolveAssemblyReference.cache
+C:\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.frmMain.resources
+C:\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\Phoenix.Resources.resources
+C:\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\GenerateResource.read.1.tlog
+C:\OSUSVT Electronics 2012\Software\Solar Car\Main Program\Phoenix\obj\Debug\GenerateResource.write.1.tlog
+C:\Main Program\Phoenix\bin\Debug\Phoenix.exe.config
+C:\Main Program\Phoenix\bin\Debug\Phoenix.exe
+C:\Main Program\Phoenix\bin\Debug\Phoenix.pdb
+C:\Main Program\Phoenix\bin\Debug\Phoenix.xml
+C:\Main Program\Phoenix\bin\Debug\WebCamControl2.dll
+C:\Main Program\Phoenix\bin\Debug\DirectShowLib.dll
+C:\Main Program\Phoenix\obj\Debug\ResolveAssemblyReference.cache
+C:\Main Program\Phoenix\obj\Debug\Phoenix.frmMain.resources
+C:\Main Program\Phoenix\obj\Debug\Phoenix.Resources.resources
+C:\Main Program\Phoenix\obj\Debug\GenerateResource.read.1.tlog
+C:\Main Program\Phoenix\obj\Debug\GenerateResource.write.1.tlog
+C:\Main Program\Phoenix\obj\Debug\Phoenix.exe
+C:\Main Program\Phoenix\obj\Debug\Phoenix.xml
+C:\Main Program\Phoenix\obj\Debug\Phoenix.pdb
+C:\Users\OSUSVT\Desktop\Main Program\Phoenix\bin\Debug\Phoenix.exe.config
+C:\Users\OSUSVT\Desktop\Main Program\Phoenix\bin\Debug\Phoenix.exe
+C:\Users\OSUSVT\Desktop\Main Program\Phoenix\bin\Debug\Phoenix.pdb
+C:\Users\OSUSVT\Desktop\Main Program\Phoenix\bin\Debug\Phoenix.xml
+C:\Users\OSUSVT\Desktop\Main Program\Phoenix\bin\Debug\WebCamControl2.dll
+C:\Users\OSUSVT\Desktop\Main Program\Phoenix\bin\Debug\DirectShowLib.dll
+C:\Users\OSUSVT\Desktop\Main Program\Phoenix\obj\Debug\Phoenix.vbprojResolveAssemblyReference.cache
+C:\Users\OSUSVT\Desktop\Main Program\Phoenix\obj\Debug\Phoenix.frmMain.resources
+C:\Users\OSUSVT\Desktop\Main Program\Phoenix\obj\Debug\Phoenix.Resources.resources
+C:\Users\OSUSVT\Desktop\Main Program\Phoenix\obj\Debug\Phoenix.vbproj.GenerateResource.Cache
+C:\Users\OSUSVT\Desktop\Main Program\Phoenix\obj\Debug\Phoenix.exe
+C:\Users\OSUSVT\Desktop\Main Program\Phoenix\obj\Debug\Phoenix.xml
+C:\Users\OSUSVT\Desktop\Main Program\Phoenix\obj\Debug\Phoenix.pdb
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Code take off the tablet\Main Program from the C drive\Phoenix\obj\Debug\Phoenix.vbprojResolveAssemblyReference.cache
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Code take off the tablet\Main Program from the C drive\Phoenix\obj\Debug\Phoenix.frmMain.resources
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Code take off the tablet\Main Program from the C drive\Phoenix\obj\Debug\Phoenix.Resources.resources
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Code take off the tablet\Main Program from the C drive\Phoenix\obj\Debug\Phoenix.vbproj.GenerateResource.Cache
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Code take off the tablet\Main Program from the C drive\Phoenix\obj\Debug\Phoenix.exe
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Code take off the tablet\Main Program from the C drive\Phoenix\obj\Debug\Phoenix.xml
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Code take off the tablet\Main Program from the C drive\Phoenix\obj\Debug\Phoenix.pdb
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Code take off the tablet\Main Program from the C drive\Phoenix\bin\Debug\WebCamControl2.dll
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Code take off the tablet\Main Program from the C drive\Phoenix\bin\Debug\DirectShowLib.dll
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Code take off the tablet\Main Program from the C drive\Phoenix\bin\Debug\Phoenix.exe.config
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Code take off the tablet\Main Program from the C drive\Phoenix\bin\Debug\Phoenix.exe
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Code take off the tablet\Main Program from the C drive\Phoenix\bin\Debug\Phoenix.pdb
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Code take off the tablet\Main Program from the C drive\Phoenix\bin\Debug\Phoenix.xml
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Code taken off the tablet\Abu Dhabi Work in Progress Code\Phoenix\bin\Debug\Phoenix.exe.config
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Code taken off the tablet\Abu Dhabi Work in Progress Code\Phoenix\bin\Debug\Phoenix.exe
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Code taken off the tablet\Abu Dhabi Work in Progress Code\Phoenix\bin\Debug\Phoenix.pdb
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Code taken off the tablet\Abu Dhabi Work in Progress Code\Phoenix\bin\Debug\Phoenix.xml
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Code taken off the tablet\Abu Dhabi Work in Progress Code\Phoenix\bin\Debug\WebCamControl2.dll
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Code taken off the tablet\Abu Dhabi Work in Progress Code\Phoenix\bin\Debug\DirectShowLib.dll
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Code taken off the tablet\Abu Dhabi Work in Progress Code\Phoenix\obj\Debug\Phoenix.vbprojResolveAssemblyReference.cache
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Code taken off the tablet\Abu Dhabi Work in Progress Code\Phoenix\obj\Debug\Phoenix.frmMain.resources
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Code taken off the tablet\Abu Dhabi Work in Progress Code\Phoenix\obj\Debug\Phoenix.Resources.resources
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Code taken off the tablet\Abu Dhabi Work in Progress Code\Phoenix\obj\Debug\Phoenix.vbproj.GenerateResource.Cache
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Code taken off the tablet\Abu Dhabi Work in Progress Code\Phoenix\obj\Debug\Phoenix.exe
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Code taken off the tablet\Abu Dhabi Work in Progress Code\Phoenix\obj\Debug\Phoenix.xml
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Code taken off the tablet\Abu Dhabi Work in Progress Code\Phoenix\obj\Debug\Phoenix.pdb
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Abu Dhabi Work in Progress Code\Phoenix\bin\Debug\Phoenix.exe.config
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Abu Dhabi Work in Progress Code\Phoenix\bin\Debug\Phoenix.exe
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Abu Dhabi Work in Progress Code\Phoenix\bin\Debug\Phoenix.pdb
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Abu Dhabi Work in Progress Code\Phoenix\bin\Debug\Phoenix.xml
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Abu Dhabi Work in Progress Code\Phoenix\bin\Debug\WebCamControl2.dll
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Abu Dhabi Work in Progress Code\Phoenix\bin\Debug\DirectShowLib.dll
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Abu Dhabi Work in Progress Code\Phoenix\obj\Debug\Phoenix.vbprojResolveAssemblyReference.cache
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Abu Dhabi Work in Progress Code\Phoenix\obj\Debug\Phoenix.frmMain.resources
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Abu Dhabi Work in Progress Code\Phoenix\obj\Debug\Phoenix.Resources.resources
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Abu Dhabi Work in Progress Code\Phoenix\obj\Debug\Phoenix.vbproj.GenerateResource.Cache
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Abu Dhabi Work in Progress Code\Phoenix\obj\Debug\Phoenix.exe
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Abu Dhabi Work in Progress Code\Phoenix\obj\Debug\Phoenix.xml
+C:\Users\Andrew Shelton\Google Drive\OSUSVT\__Abu Dhabi__\Code For The Phoenix\Abu Dhabi Work in Progress Code\Phoenix\obj\Debug\Phoenix.pdb

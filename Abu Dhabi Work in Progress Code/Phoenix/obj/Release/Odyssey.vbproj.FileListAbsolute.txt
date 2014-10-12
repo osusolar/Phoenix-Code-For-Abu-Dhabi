@@ -1,0 +1,24 @@
+C:\temp\Solar Car\Odyssey\bin\Release\Odyssey.exe
+C:\temp\Solar Car\Odyssey\bin\Release\Odyssey.pdb
+C:\temp\Solar Car\Odyssey\bin\Release\Odyssey.xml
+C:\temp\Solar Car\Odyssey\bin\Release\DirectShowLib.dll
+C:\temp\Solar Car\Odyssey\bin\Release\WebCamControl2.dll
+C:\temp\Solar Car\Odyssey\obj\Release\ResolveAssemblyReference.cache
+C:\temp\Solar Car\Odyssey\obj\Release\Odyssey.frmMain.resources
+C:\temp\Solar Car\Odyssey\obj\Release\Odyssey.Resources.resources
+C:\temp\Solar Car\Odyssey\obj\Release\Odyssey.vbproj.GenerateResource.Cache
+C:\temp\Solar Car\Odyssey\obj\Release\Odyssey.exe
+C:\temp\Solar Car\Odyssey\obj\Release\Odyssey.xml
+C:\temp\Solar Car\Odyssey\obj\Release\Odyssey.pdb
+C:\Users\Hai Yue\Desktop\Main Computer\Odyssey\bin\Release\Odyssey.exe
+C:\Users\Hai Yue\Desktop\Main Computer\Odyssey\bin\Release\Odyssey.pdb
+C:\Users\Hai Yue\Desktop\Main Computer\Odyssey\bin\Release\Odyssey.xml
+C:\Users\Hai Yue\Desktop\Main Computer\Odyssey\bin\Release\DirectShowLib.dll
+C:\Users\Hai Yue\Desktop\Main Computer\Odyssey\bin\Release\WebCamControl2.dll
+C:\Users\Hai Yue\Desktop\Main Computer\Odyssey\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Hai Yue\Desktop\Main Computer\Odyssey\obj\Release\Odyssey.frmMain.resources
+C:\Users\Hai Yue\Desktop\Main Computer\Odyssey\obj\Release\Odyssey.Resources.resources
+C:\Users\Hai Yue\Desktop\Main Computer\Odyssey\obj\Release\Odyssey.vbproj.GenerateResource.Cache
+C:\Users\Hai Yue\Desktop\Main Computer\Odyssey\obj\Release\Odyssey.exe
+C:\Users\Hai Yue\Desktop\Main Computer\Odyssey\obj\Release\Odyssey.xml
+C:\Users\Hai Yue\Desktop\Main Computer\Odyssey\obj\Release\Odyssey.pdb
